@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Netlify CD is working fine.</h1>
+        <h1>Testing for 'test' branch.</h1>
       </header>
     </div>
   );
